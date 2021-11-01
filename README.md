@@ -1,3 +1,3 @@
-# SupplementsWeb_JSP-Servlet
+# PlantsGrowing
 
-Making SupplementsWeb By using JSP / Servlet
+Making PlantsGrowing Game By using JAVA
